@@ -1,3 +1,8 @@
+#Caleb Chase
+#National University
+#CYB333 Final Project
+#Oct. 25, 2024
+
 import os
 import tkinter as tk
 from tkinter import filedialog
